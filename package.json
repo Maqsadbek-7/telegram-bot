@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "name": "not-js",
+  "version": "1.0.0",
+  "description": "good",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maqsadbek",
+  "license": "ISC"
+}
